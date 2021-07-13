@@ -1,0 +1,61 @@
+﻿
+div
+{
+	display : inline-block;
+}
+
+h2
+{
+	font-family : 'AlphaPix';
+	font-size : 3em;
+	color : red;
+	display : inline-block;
+	background : url('fond_jaune.png');
+	margin-top : 0px;
+	text-shadow : 10px 3px 3px 3px green;
+}
+
+h1
+{
+	color : blue;
+	font-family : 'AlphaWood';
+	padding : 10px;
+	text-shadow: 6px 6px 4px green;
+}
+
+#bloc_page
+{
+	background : url('fond_jaune.png');
+	width : 788px;
+	height : 600px;
+}
+
+header
+{
+	background : url('fond_jaune.png');
+	display : inline-block;
+	width : 750%;
+	margin-bottom : 0px;
+}
+body
+{
+	background : url('fond_jaune.png');
+}
+
+body
+{
+	text-shadow : 10px 10px 10px black;
+	font-weight : bold;
+}
+input
+{
+	margin : 10px;
+}
+
+fieldset
+{
+	width : 400px;
+	height : 100px;
+	border : none;
+}
+
